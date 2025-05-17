@@ -1,6 +1,6 @@
 # 🧠 Symbolic World Generator (SWG-RL)
 
-Welcome to the official repository of **Symbolic World Generator with Reinforcement Learning (SWG-RL)** — a domain-level symbolic planner powered by large language models and trajectory-based feedback.
+Welcome to the official repository of **Symbolic World Generator with Reinforcement Learning (SWG-RL)** — a domain-level symbolic planner powered by large language models .
 
 ## 🚀 Model Release
 
@@ -12,6 +12,4 @@ The model is fine-tuned using curriculum learning and guided reinforcement over 
 
 ---
 
-## 📁 Benchmark Dataset
 
-This repository also includes a test benchmark dataset:
